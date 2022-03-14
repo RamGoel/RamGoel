@@ -1,6 +1,8 @@
 
 <h1><p align="center">Hello, I'm Ram Goel! <a href="https://linkedin.com/in/ramgoel19"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1></a></p>
 
+I am a Student, coding for past 3 years and loves developing solutions to real life problems. I have done a 3-Year diploma and currently pursuing my graduation in computer science and engineering. My Technical skills include ReactJS,NodeJS, MongoDB and my interpersonal skills include public speaking, planning, problem solving and Critical Thinking. I am the Web Development Coordinator at Google Developers Student Club ABES Engineering College and Coordinator at Entrepreneurship Cell of CSE Department of our College where I am working on my Technical as well as Team Management sills.
+
 
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1453406830/264/success-kid.png?1453406830" align="center"
                 width="28" /> What I currently do</h2>
@@ -10,6 +12,103 @@
 - 👯 I’m looking to collaborate on Frontend and Backend Web projects.
 - 🤔 I’m looking for help with React.
 - 💬 Ask me about Front-end Web Development and tech-related stuff and Design.
+
+
+
+## Social Links
+
+- [@Github](https://www.github.com/RamGoel)
+- [@Instagram](https://www.instagram.com/ramgoel_)
+- [@LinkedIN](https://www.linkedin.com/in/ramgoel/)
+- [@StackOverflow](https://stackoverflow.com/users/17023732/ram-goel)
+- [@HackerRank](https://www.hackerrank.com/Rgoel766)
+- [@CodeChef](https://www.codechef.com/users/ramgoel)
+- [@CodingNinjas](https://profile.codingninjas.com/bb05dda3-214e-41b6-84fd-ea6708ac75a4?_ga=2.89461016.2094404748.1647182746-348052578.1646569954)
+- [@GeeksforGeeks](https://auth.geeksforgeeks.org/user/rgoel766/)
+- [@Quora](https://www.quora.com/profile/Ram-Goel-27/)
+- [@Twitter](https://twitter.com/RamGoel19)
+- [@LeetCode](https://leetcode.com/rgoel766/)
+- [@HackerEarth](https://www.hackerearth.com/@rgoel766)
+
+
+## Achievements
+
+- 4 Star C++ Coder@Hackerrank
+- 1 Star Coder@CodeChef
+- 200+ Commits on Github
+## Education
+
+
+
+```bash
+  Bachelor of Technology [Computer Science and Engineering] 2021-24
+```
+
+
+
+```bash
+  Diploma in Computer Science and Engineering 2018-21
+```
+
+## Projects
+
+- [CodeChat - Chat and Code Online](https://codechatapp.herokuapp.com/)
+- [Lekhak - Anonymous Posts](https://lekhak.herokuapp.com/)
+- [memberReact - Team Member Record App in ReactJS](https://team-manage-react.netlify.app/)
+- [eduNotify - College Update Portal](https://edunotify.herokuapp.com/)
+
+
+
+## Work Samples
+
+- [Restaurant Landing Page](https://ramgoel.github.io/SiteDesigns/freelanceWebsites-main/FaujiRestaurant/index.html)
+- [Portfolio Page](https://ramgoel.github.io/SiteDesigns/PortfolioWebsiteDesign/index.html)
+- [Flipkart Home Page Clone](https://ramgoel.github.io/SiteDesigns/flipkart/index.html)
+- [Seller Landing Page](https://ramgoel.github.io/SiteDesigns/GoelSellers/index.html)
+- [Sample Company Page](https://ramgoel.github.io/Ram_DSCABESEC)
+- [API Apps](https://ramgoel.github.io/WebWork/api%20apps/index.html)
+
+
+
+## SkillSet
+
+- Client: EJS, HTML, Bootstrap, CSS,JavaScript, 
+
+- Server: Node, Express, SocketIO, Axios, MongoDB
+
+- Languages : C, C++, Python, JavaScript
+
+- Frameworks: ReactJS
+
+- Design: Figma, Canva
+
+- Softwares: Visual Studio Code, Sublime Text, CodeBlocks
+
+
+
+
+## Certifications
+
+- [Responsive Web Design by FreeCodeCamp](https://olympus1.mygreatlearning.com/course_certificate/ESQSPGUA)
+- [Python For Beginners by Great Learning](https://www.freecodecamp.org/certification/fcce67a112e-b0a8-4351-8e43-f12287a1f12f/responsive-web-design)
+
+
+
+
+## Positions of Responsiblities
+
+
+
+```bash
+  Web Development Coordinator@Google Developer Student Club ABES Engineering College
+```
+
+
+
+```bash
+  Coordinator at Entrepreurship Cell CSE Department ABESEC
+```
+
 
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center"
                 width="28" /> To connect with me</h2></summary>
