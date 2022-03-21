@@ -57,8 +57,6 @@ I am a Student, coding for past 3 years and loves developing solutions to real l
 - [memberReact - Team Member Record App in ReactJS](https://team-manage-react.netlify.app/)
 - [eduNotify - College Update Portal](https://edunotify.herokuapp.com/)
 
-
-
 ## Work Samples
 
 - [Restaurant Landing Page](https://ramgoel.github.io/SiteDesigns/freelanceWebsites-main/FaujiRestaurant/index.html)
@@ -67,6 +65,16 @@ I am a Student, coding for past 3 years and loves developing solutions to real l
 - [Seller Landing Page](https://ramgoel.github.io/SiteDesigns/GoelSellers/index.html)
 - [Sample Company Page](https://ramgoel.github.io/Ram_DSCABESEC)
 - [API Apps](https://ramgoel.github.io/WebWork/api%20apps/index.html)
+
+## DSA and Programming
+
+- [CodeChef Submissions ](https://github.com/RamGoel/InternshipAssesment/tree/main/Prabal)
+- [DSA Implementaions](https://github.com/RamGoel/RamGoel/tree/main/DataStructure)
+- [Problem Solving](https://github.com/RamGoel/RamGoel/tree/main/ProblemSolving)
+- [Python Programming](https://github.com/RamGoel/RamGoel/tree/main/Python)
+
+
+
 
 
 
