@@ -41,7 +41,7 @@ I am a Student, coding for past 3 years and loves developing solutions to real l
 
 
 ```bash
-  Bachelor of Technology [Computer Science and Engineering] 2021-24
+  Bachelor of Technology in Computer Science and Engineering 2021-24
 ```
 
 
@@ -52,10 +52,10 @@ I am a Student, coding for past 3 years and loves developing solutions to real l
 
 ## Projects
 
-- [CodeChat - Chat and Code Online](https://codechatapp.herokuapp.com/)
-- [Lekhak - Anonymous Posts](https://lekhak.herokuapp.com/)
-- [memberReact - Team Member Record App in ReactJS](https://team-manage-react.netlify.app/)
-- [eduNotify - College Update Portal](https://edunotify.herokuapp.com/)
+- [CodeChat - Chat and Code Online](https://codechatapp.herokuapp.com/)[Code](https://github.com/RamGoel/CodeChat)
+- [Lekhak - Anonymous Posts](https://lekhak.herokuapp.com/)[Code](https://github.com/RamGoel/Lekhak)
+- [memberReact - Team Member Record App in ReactJS](https://team-manage-react.netlify.app/)[Code](https://github.com/RamGoel/memberReact)
+- [eduNotify - College Update Portal](https://edunotify.herokuapp.com/)[Code](https://github.com/RamGoel/eduNotify)
 
 ## Work Samples
 
