@@ -35,7 +35,7 @@ I am a Student, coding for past 3 years and loves developing solutions to real l
 
 - 4 Star C++ Coder@Hackerrank
 - 1 Star Coder@CodeChef
-- 200+ Commits on Github
+- 300+ Contributions on Github
 ## Education
 
 
