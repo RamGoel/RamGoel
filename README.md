@@ -102,8 +102,10 @@ I am a Student, coding for past 3 years and loves developing solutions to real l
 
 ## Certifications
 
-- [Responsive Web Design by FreeCodeCamp](https://olympus1.mygreatlearning.com/course_certificate/ESQSPGUA)
-- [Python For Beginners by Great Learning](https://www.freecodecamp.org/certification/fcce67a112e-b0a8-4351-8e43-f12287a1f12f/responsive-web-design)
+- [Responsive Web Design by FreeCodeCamp](https://www.freecodecamp.org/certification/fcce67a112e-b0a8-4351-8e43-f12287a1f12f/responsive-web-design)
+- [Python For Beginners by Great Learning](https://olympus1.mygreatlearning.com/course_certificate/ESQSPGUA)
+ - [SQL(Basic) by Hackerrank](https://www.hackerrank.com/certificates/8b4aa05622f6)
+- [JavaScript(Basic) by Hackerrank](https://www.hackerrank.com/certificates/8f44b95144bc)
 
 
 
