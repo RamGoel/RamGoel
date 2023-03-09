@@ -4,16 +4,6 @@
 I am a Student, coding for past 3 years and loves developing solutions to real life problems. I have done a 3-Year diploma and currently pursuing my graduation in computer science and engineering. My Technical skills include ReactJS,NodeJS, MongoDB and my interpersonal skills include public speaking, planning, problem solving and Critical Thinking. I am the Web Development Coordinator at Google Developers Student Club ABES Engineering College and Coordinator at Entrepreneurship Cell of CSE Department of our College where I am working on my Technical as well as Team Management sills.
 
 
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1453406830/264/success-kid.png?1453406830" align="center"
-                width="28" /> What I currently do</h2>
-
-- 🔭 I'm learning DSA Currently.
-- 🌱 I’m currently learning React and NodeJS.
-- 👯 I’m looking to collaborate on Frontend and Backend Web projects.
-- 🤔 I’m looking for help with React.
-- 💬 Ask me about Front-end Web Development and tech-related stuff and Design.
-
-
 
 ## Social Links
 
@@ -26,9 +16,11 @@ I am a Student, coding for past 3 years and loves developing solutions to real l
 - [@CodingNinjas](https://profile.codingninjas.com/bb05dda3-214e-41b6-84fd-ea6708ac75a4?_ga=2.89461016.2094404748.1647182746-348052578.1646569954)
 - [@GeeksforGeeks](https://auth.geeksforgeeks.org/user/rgoel766/)
 - [@Quora](https://www.quora.com/profile/Ram-Goel-27/)
-- [@Twitter](https://twitter.com/RamGoel19)
+- [@Twitter](https://twitter.com/theRamGoel)
 - [@LeetCode](https://leetcode.com/rgoel766/)
 - [@HackerEarth](https://www.hackerearth.com/@rgoel766)
+
+
 
 
 ## Achievements
@@ -36,47 +28,18 @@ I am a Student, coding for past 3 years and loves developing solutions to real l
 - 4 Star C++ Coder@Hackerrank
 - 1 Star Coder@CodeChef
 - 300+ Contributions on Github
-## Education
 
-
-
-```bash
-  Bachelor of Technology in Computer Science and Engineering 2021-24
-```
-
-
-
-```bash
-  Diploma in Computer Science and Engineering 2018-21
-```
 
 ## Projects
 
-- [CodeChat - Chat and Code Online](https://codechatapp.herokuapp.com/)--[View Code](https://github.com/RamGoel/CodeChat)
+- [CodeChat - Chat and Code Online](https://codechat-8oqw.onrender.com)--[View Code](https://github.com/RamGoel/CodeChat)
 - [Lekhak - Anonymous Posts](https://lekhak.herokuapp.com/)--[View Code](https://github.com/RamGoel/Lekhak)
-- [memberReact - Team Member Record App in ReactJS](https://team-manage-react.netlify.app/)--[View Code](https://github.com/RamGoel/memberReact)
+- [Portify - Portfolio Website in 2 Minutes](https://portify.onrender.com)--[View Code](https://github.com/RamGoel/portify/)
 - [eduNotify - College Update Portal](https://edunotify.herokuapp.com/)--[View Code](https://github.com/RamGoel/eduNotify)
 - [GDSC ABESEC Website in React](https://gdscabesec-rg.netlify.app/)--[View Code](https://github.com/RamGoel/clubwebsite)
 - [Chat App with React & Firebase](https://react-firebase-chat-test.netlify.app/)--[View Code](https://github.com/RamGoel/Neurolinga-Test)
 - [Employee-Manangement with API](https://employee-manange.netlify.app/)--[View Code](https://github.com/RamGoel/trainingAssessment2.0)
 - [API OTP Auth in React](https://login-react-otp.netlify.app/)--[View Code](https://github.com/RamGoel/simplifiiAssesment)
-
-
-## Work Samples
-
-- [Restaurant Landing Page](https://ramgoel.github.io/SiteDesigns/freelanceWebsites-main/FaujiRestaurant/index.html)
-- [Portfolio Page](https://ramgoel.github.io/SiteDesigns/PortfolioWebsiteDesign/index.html)
-- [Flipkart Home Page Clone](https://ramgoel.github.io/SiteDesigns/flipkart/index.html)
-- [Seller Landing Page](https://ramgoel.github.io/SiteDesigns/GoelSellers/index.html)
-- [Sample Company Page](https://ramgoel.github.io/Ram_DSCABESEC)
-- [API Apps](https://ramgoel.github.io/WebWork/api%20apps/index.html)
-
-## DSA and Programming
-
-- [CodeChef Submissions ](https://github.com/RamGoel/InternshipAssesment/tree/main/Prabal)
-- [DSA Implementaions](https://github.com/RamGoel/RamGoel/tree/main/DataStructure)
-- [Problem Solving](https://github.com/RamGoel/RamGoel/tree/main/ProblemSolving)
-- [Python Programming](https://github.com/RamGoel/RamGoel/tree/main/Python)
 
 
 
@@ -91,55 +54,11 @@ I am a Student, coding for past 3 years and loves developing solutions to real l
 
 - Languages : C, C++, Python, JavaScript
 
-- Frameworks: ReactJS
+- Frameworks: ReactJS, React Native
 
 - Design: Figma, Canva
 
 - Softwares: Visual Studio Code, Sublime Text, CodeBlocks
-
-
-
-
-## Certifications
-
-- [Responsive Web Design by FreeCodeCamp](https://www.freecodecamp.org/certification/fcce67a112e-b0a8-4351-8e43-f12287a1f12f/responsive-web-design)
-- [Python For Beginners by Great Learning](https://olympus1.mygreatlearning.com/course_certificate/ESQSPGUA)
- - [SQL(Basic) by Hackerrank](https://www.hackerrank.com/certificates/8b4aa05622f6)
-- [JavaScript(Basic) by Hackerrank](https://www.hackerrank.com/certificates/8f44b95144bc)
-
-
-
-
-## Positions of Responsiblities
-
-
-
-```bash
-  Web Development Coordinator@Google Developer Student Club ABES Engineering College
-```
-
-
-
-```bash
-  Coordinator at Entrepreurship Cell CSE Department ABESEC
-```
-
-```bash
-  Volunteer at Placement Committee ABESEC
-```
-
-<summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center"
-                width="28" /> To connect with me</h2></summary>
-
-<p align = "center">
- 
-[<img src ="https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://ramgoel.github.io/RamGoel/)
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/ramgoel19) 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/RamGoel/)
-[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/its_ramgoel/)
-[![Visits Badge](https://badges.pufler.dev/visits/RahulMahesh62/RahulMahesh62?style=for-the-badge)](https://github.com/RamGoel)
-
-</p>
 
 
 <br>
