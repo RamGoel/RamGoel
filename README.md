@@ -33,13 +33,8 @@ I am a Student, coding for past 3 years and loves developing solutions to real l
 ## Projects
 
 - [CodeChat - Chat and Code Online](https://codechat-8oqw.onrender.com)--[View Code](https://github.com/RamGoel/CodeChat)
-- [Lekhak - Anonymous Posts](https://lekhak.herokuapp.com/)--[View Code](https://github.com/RamGoel/Lekhak)
 - [Portify - Portfolio Website in 2 Minutes](https://portify.onrender.com)--[View Code](https://github.com/RamGoel/portify/)
-- [eduNotify - College Update Portal](https://edunotify.herokuapp.com/)--[View Code](https://github.com/RamGoel/eduNotify)
-- [GDSC ABESEC Website in React](https://gdscabesec-rg.netlify.app/)--[View Code](https://github.com/RamGoel/clubwebsite)
-- [Chat App with React & Firebase](https://react-firebase-chat-test.netlify.app/)--[View Code](https://github.com/RamGoel/Neurolinga-Test)
-- [Employee-Manangement with API](https://employee-manange.netlify.app/)--[View Code](https://github.com/RamGoel/trainingAssessment2.0)
-- [API OTP Auth in React](https://login-react-otp.netlify.app/)--[View Code](https://github.com/RamGoel/simplifiiAssesment)
+- [cdnExtension - All CDN Links on 1 Tap](https://addons.mozilla.org/en-US/firefox/addon/cdnextension/)--[View Code](https://github.com/RamGoel/cdnExtension/)
 
 
 
