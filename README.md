@@ -25,19 +25,17 @@ I am a Student, coding for past 3 years and loves developing solutions to real l
 
 ## Achievements
 
-- 4 Star C++ Coder@Hackerrank
+- 5 Star C++ Coder@Hackerrank
 - 1 Star Coder@CodeChef
-- 300+ Contributions on Github
-
+- 700+ Contributions on Github
+- 100+ Problems Solved on Leetcode
 
 ## Projects
 
 - [CodeChat - Chat and Code Online](https://codechat-8oqw.onrender.com)--[View Code](https://github.com/RamGoel/CodeChat)
 - [Portify - Portfolio Website in 2 Minutes](https://portify.onrender.com)--[View Code](https://github.com/RamGoel/portify/)
-- [cdnExtension - All CDN Links on 1 Tap](https://addons.mozilla.org/en-US/firefox/addon/cdnextension/)--[View Code](https://github.com/RamGoel/cdnExtension/)
-
-
-
+- [InvestorHub - The Social Media of Founders & Investors](https://investorhub.netlify.app/) --[View Code](https://github.com/RamGoel/Investors-Hub)
+- [Crypto Price Tracker](https://crypto-hunter.netlify.app/)--[View Code](https://github.com/RamGoel/cryptotracker-app)
 
 
 
