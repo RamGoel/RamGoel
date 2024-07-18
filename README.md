@@ -19,12 +19,12 @@
 		height="150em"
 		src="https://github-readme-stats.vercel.app/api?username=RamGoel&show_icons=true&include_all_commits=true&count_private=true&theme=apprentice&hide_border=true&bg_color=0D1117" />
 	</a>
-	<a href="https://github.com/RamGoel">
+<!-- 	<a href="https://github.com/RamGoel">
 		<img align="center"
 		height="150em"
 		src="https://github-readme-stats.vercel.app/api/top-langs?username=RamGoel&show_icons=true&include_all_commits=true&count_private=true&theme=apprentice&hide_border=true&bg_color=0D1117&layout=compact"
 		/>
-	</a>
+	</a> -->
 	<a href="https://github.com/RamGoel">
 		<img align="center"
 		height="150em"
@@ -32,10 +32,5 @@
 	</a>
 </p>
 
-<p align="center">
-	<a href="https://github.com/RamGoel">
-		<img
-		align="center"
-		src="https://github-profile-trophy.vercel.app/?username=RamGoel&theme=onedark&no-frame=true&row=1&&margin-w=20&no-bg=true"/>
-	</a>
-</p>
+## Who am I
+I am Ram, worked with 3+ startups in India, and worked with 1 startup in US (Remote). Companies ranged from pre-seed to Series B funded. I have been working with webdev for past 2-3 years. I have strong skills in React Native, React/Next, JS/TS, Redux/Zustand, MongoDB/Postgres, ExpressJS, etc. Been working with GenAI for past 6 months, so well versed with topics like, Vector DBs, Prompt Engineering etc. I built a app to connect developers, which got 60+ users, here [Dumbel](https://dumbel.vercel.app/) and a app to convert JSON into Tailwind Code, here [Lemma UI](https://lemma-ui.vercel.app/)
